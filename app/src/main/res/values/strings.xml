@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora_de_Edad</string>
+
+    <string name="titulo">Calculadora de Edad</string>
+    <string name="elegirfecha">Seleccionar Fecha</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="resul">Edad:</string>
+
+</resources>
+
